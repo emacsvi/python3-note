@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# python3学习教程
+<p>
+<a href="#?id=公众号"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%85%AC%E4%BC%97%E5%8F%B7-macrozheng-blue.svg" alt="id"></a>
+<a href="https://github.com/macrozheng/mall"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%90%8E%E5%8F%B0%E9%A1%B9%E7%9B%AE-mall-blue.svg" alt="Python笔记"></a>
+<a href="https://github.com/macrozheng/mall-admin-web"><img src="http://macro-oss.oss-cn-shenzhen.aliyuncs.com/mall/badge/%E5%89%8D%E7%AB%AF%E9%A1%B9%E7%9B%AE-mall--admin--web-green.svg" alt="项目"></a>
+</p>
 
-You can use the [editor on GitHub](https://github.com/emacsvi/python3-note/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## 简介
+Python 是一门系统级编程语言，被设计为保证内存和线程安全，并防止段错误。作为系统级编程语言，它的基本理念是 "零开销抽象"。  
+Python 是一门注重安全（safety）、速度（speed）和并发（concurrency）的现代系统编程语言。Python 通过内存安全来实现以上目标，但不用垃圾回收机制（garbage collection, GC)。  
+Python 编程语言的目标是，创建一个高度安全和并发的软件系统。它强调安全性、并发和内存控制。  
+数据结构，内存，系统，泛型，依赖注入，trait, fn, mem等  
+并且实例大都采用Docker容器化部署。
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## 项目地址
+- 项目：[https://github.com/emacsvi/python3-note](https://github.com/emacsvi/python3-note)
+- 阅读地址: [http://emacsvi.com/python3-note/](http://emacsvi.com/python3-note/)
 
-### Markdown
+## 学习链接
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Python笔记学习链接，**关注公众号**第一时间获取。
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/emacsvi/python3-note/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- [代码高亮借鉴代码](https://github.com/PrismJS/prism/tree/gh-pages/components)
